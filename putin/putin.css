@@ -1,0 +1,44 @@
+.jumbotron{
+    font-size: 500%;
+    background-color: #f47c7c;
+}s
+.item img{
+    width: 500em;
+}
+.jumbotron{
+    margin: 0 0;
+    font-family: "Poiret One";
+}
+body{
+    font-family: "Poiret One";                     
+    }
+
+.carousel-indicators{
+        bottom: 0px;
+        border-radius: 15px;
+        padding: 0px 0px 0px 0px;
+    }
+    #putin{
+        font-size: 30px;
+    }
+    ul{
+        font-size: 30px;
+    }
+.btn{
+    border: solid;
+    padding: 10px;
+    border-color: black;
+    background-color: rgb(255, 130, 130);
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;                
+    border-width: 5px;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+.container{
+    margin: 4% auto;
+}
